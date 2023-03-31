@@ -1,0 +1,120 @@
+F:\Sem.4\C# Projects\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+F:\Sem.4\C# Projects\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+F:\Sem.4\C# Projects\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\mscorlib.dll
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\sortkey.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\sorttbls.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\big5.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\bopomofo.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\ksc.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\prc.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\prcp.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\xjis.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\normidna.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\normnfc.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\normnfd.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\normnfkc.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\bin\Debug\normnfkd.nlp
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.AssemblyReference.cache
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.cache
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CopyComplete
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+D:\1mathgame\Movie DB C#\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+D:\Movie1\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+D:\Movie1\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+D:\Movie1\MovieDB\MovieDB\bin\Debug\mscorlib.dll
+D:\Movie1\MovieDB\MovieDB\bin\Debug\sortkey.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\sorttbls.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\big5.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\bopomofo.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\ksc.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\prc.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\prcp.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\xjis.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\normidna.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\normnfc.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\normnfd.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\normnfkc.nlp
+D:\Movie1\MovieDB\MovieDB\bin\Debug\normnfkd.nlp
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.AssemblyReference.cache
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.cache
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CopyComplete
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+D:\Movie1\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\mscorlib.dll
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\sortkey.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\sorttbls.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\big5.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\bopomofo.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\ksc.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\prc.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\prcp.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\xjis.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\normidna.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\normnfc.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\normnfd.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.cache
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CopyComplete
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\Admin\Pictures\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+D:\project หนัง\MovieDB\bin\Debug\MovieDB.exe
+D:\project หนัง\MovieDB\bin\Debug\MovieDB.pdb
+D:\project หนัง\MovieDB\bin\Debug\mscorlib.dll
+D:\project หนัง\MovieDB\bin\Debug\sortkey.nlp
+D:\project หนัง\MovieDB\bin\Debug\sorttbls.nlp
+D:\project หนัง\MovieDB\bin\Debug\big5.nlp
+D:\project หนัง\MovieDB\bin\Debug\bopomofo.nlp
+D:\project หนัง\MovieDB\bin\Debug\ksc.nlp
+D:\project หนัง\MovieDB\bin\Debug\prc.nlp
+D:\project หนัง\MovieDB\bin\Debug\prcp.nlp
+D:\project หนัง\MovieDB\bin\Debug\xjis.nlp
+D:\project หนัง\MovieDB\bin\Debug\normidna.nlp
+D:\project หนัง\MovieDB\bin\Debug\normnfc.nlp
+D:\project หนัง\MovieDB\bin\Debug\normnfd.nlp
+D:\project หนัง\MovieDB\bin\Debug\normnfkc.nlp
+D:\project หนัง\MovieDB\bin\Debug\normnfkd.nlp
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.csproj.AssemblyReference.cache
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.Form1.resources
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.Form2.resources
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.cache
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.csproj.CopyComplete
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.exe
+D:\project หนัง\MovieDB\obj\Debug\MovieDB.pdb
