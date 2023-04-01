@@ -171,6 +171,9 @@ classDiagram2
     SaveFileDialog --> StreamWriter
     DataGridViewExporter "1" --> "n" DataGridView
     StreamWriter --> "Exported successfully!" : Show message box
+    }
+    
+    ไม่ชัวว่าทำถูก
 
 
 
